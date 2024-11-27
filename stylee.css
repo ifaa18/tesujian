@@ -3,7 +3,6 @@
 
 .card {
   width: 18rem;
-
 }
 
 #peta {
@@ -83,7 +82,7 @@ transform: scale(1.03);
   opacity: 1;
 }
 
-@media (max-width: 585px){
+@media (max-width: 578px){
   a.navbar-brand {
     font-size: 0.9rem;
   }
