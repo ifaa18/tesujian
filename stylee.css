@@ -5,6 +5,9 @@
   width: 18rem;
 }
 
+.navbar-brand{
+  padding:10px;
+}
 
 #peta {
   position: relative;
@@ -83,7 +86,7 @@ transform: scale(1.03);
   opacity: 1;
 }
 
-@media (max-width: 778px){
+@media (max-width: 578px){
   a.navbar-brand {
     font-size: 0.9rem;
   }
